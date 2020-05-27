@@ -1,0 +1,10 @@
+I
+1 Version
+2 200514    PHNL    PHNL   0   0.1   0.0   0.0   0.0  N172SP  Cessna_172SP
+2 200514    KDCA    KDCA   0   0.1   0.0   0.0   0.0  N806AM  PA44_Seminole-XP11
+2 200515    KCGX    KCGX   0   0.1   0.0   0.0   0.0   N92NE  TwinComanche
+2 200516    KLGA    KEWR   1   0.2   0.0   0.0   0.0  NC4134  Car_AeroCommander_XP11
+2 200517    KEWR    KCGX   1   0.2   0.0   0.0   0.0  Car_B58_Baron  
+2 200521    KBOS    KBOS   1   0.1   0.0   0.0   0.0  N771LB  Aerostar
+2 200522    KBOS    KBOS   1   0.1   0.0   0.0   0.0          Car_B58_Baron
+99
