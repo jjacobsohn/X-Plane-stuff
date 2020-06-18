@@ -6,5 +6,6 @@ I
 2 200516    KLGA    KEWR   1   0.2   0.0   0.0   0.0  NC4134  Car_AeroCommander_XP11
 2 200517    KEWR    KCGX   1   0.2   0.0   0.0   0.0  Car_B58_Baron  
 2 200521    KBOS    KBOS   1   0.1   0.0   0.0   0.0  N771LB  Aerostar
-2 200522    KBOS    KBOS   1   0.1   0.0   0.0   0.0          Car_B58_Baron
+2 200522    KBOS    KBOS   1   0.1   0.0   0.0   0.0  Car_B58_Baron  
+2 200606    KALB    KALB   0   0.2   0.0   0.0   0.0  N771LB  Aerostar
 99

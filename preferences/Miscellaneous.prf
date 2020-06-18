@@ -15,9 +15,9 @@ networking_disclose_external_visuals 0
 P monitor_10 _offsets 0
 P monitor_10 _field_of_view 0
 P monitor_10 _visuals 0
-P monitor_8 _offsets 0
-P monitor_8 _field_of_view 0
-P monitor_8 _visuals 0
+P monitor_1 _offsets 0
+P monitor_1 _field_of_view 0
+P monitor_1 _visuals 0
 P monitor_14 _offsets 0
 P monitor_14 _field_of_view 0
 P monitor_14 _visuals 0
@@ -97,6 +97,6 @@ P monitor_19 _visuals 0
 P monitor_4 _offsets 0
 P monitor_4 _field_of_view 0
 P monitor_4 _visuals 0
-P monitor_1 _offsets 0
-P monitor_1 _field_of_view 0
-P monitor_1 _visuals 0
+P monitor_8 _offsets 0
+P monitor_8 _field_of_view 0
+P monitor_8 _visuals 0

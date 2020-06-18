@@ -40,7 +40,7 @@ _vr_manip_visualize 1
 _vr_has_3d_mouse 0
 _eq_matrox_TH 0
 _num_acf 4
-_apt_id_str KBOS
+_apt_id_str NY67
 _tex_res 5
 _aniso_filter 4
 _default_view 2
@@ -71,14 +71,14 @@ _rel_path_tow Aircraft/Laminar Research/Stinson L5/L5_Sentinel.acf
 _rel_path_ref_KC10 Aircraft/Extra Aircraft/McDonnell Douglas KC-10/KC-10.acf
 _rel_path_ref_C130 Aircraft/Extra Aircraft/C-130/C-130.acf
 _rel_path_carry Aircraft/Extra Aircraft/B-52G NASA/B-52G NASA.acf
-_ref_rwy_wrl 3
-_ref_rwy_dir 1
+_ref_rwy_wrl 0
+_ref_rwy_dir 0
 _use_experimental_FM 0
 _use_MTBF 1
 _real_MTBF_hours 10000.000000
 _atc_UI_x 10.000000
 _atc_UI_y 600.000000
-_zulu_time 62902.527526
+_zulu_time 62872.040666
 _locl_date_jan1 80.000000
 _mode_lat 0
 _mode_vert 3
@@ -89,8 +89,8 @@ _nav_is_bac 0
 _mode_athr 0
 _km_is_mach 0
 _use_fms_alt 0
-_syn_hold_deg_phi -0.055390
-_syn_hold_deg_the 1.616472
+_syn_hold_deg_phi -3.006999
+_syn_hold_deg_the -2.100093
 _asi_hold_kts_mac 39.999634
 _hdg_hold_mag[0] 0.000000
 _hdg_hold_mag[1] 0.000000
@@ -204,26 +204,26 @@ _CfreqSTDBY13 118000
 _CfreqSTDBY14 118000
 _CfreqSTDBY15 118000
 _CfreqSTDBY16 118000
-_acf_path_rel0 Aircraft/Carenado B58_Baron_v1.1/Car_B58_Baron.acf
+_acf_path_rel0 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
 _acf_path_rel1 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
 _acf_path_rel2 Aircraft/Laminar Research/Boeing B737-800/b738.acf
 _acf_path_rel3 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
-_acf_path_rel4 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel5 Aircraft/Laminar Research/KingAir C90B/C90B.acf
-_acf_path_rel6 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel7 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel8 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
-_acf_path_rel9 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
-_acf_path_rel10 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel11 Aircraft/Laminar Research/Boeing B737-800/b738.acf
-_acf_path_rel12 Aircraft/Laminar Research/KingAir C90B/C90B.acf
-_acf_path_rel13 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel14 Aircraft/Laminar Research/KingAir C90B/C90B.acf
-_acf_path_rel15 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
-_acf_path_rel16 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
-_acf_path_rel17 Aircraft/Laminar Research/Boeing B737-800/b738.acf
+_acf_path_rel4 Aircraft/Laminar Research/McDonnell Douglas MD-80/MD80.acf
+_acf_path_rel5 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
+_acf_path_rel6 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
+_acf_path_rel7 Aircraft/Laminar Research/Boeing B737-800/b738.acf
+_acf_path_rel8 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
+_acf_path_rel9 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel10 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
+_acf_path_rel11 Aircraft/Laminar Research/Boeing B747-400/747-400.acf
+_acf_path_rel12 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
+_acf_path_rel13 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
+_acf_path_rel14 Aircraft/Laminar Research/Cessna 172SP/Cessna_172SP.acf
+_acf_path_rel15 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
+_acf_path_rel16 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
+_acf_path_rel17 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
 _acf_path_rel18 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
-_acf_path_rel19 Aircraft/Laminar Research/KingAir C90B/C90B.acf
+_acf_path_rel19 Aircraft/Laminar Research/Cirrus SF-50/CirrusSF50.acf
 _vol_master 1.000000
 _vol_grp_aircraft 1.000000
 _vol_grp_cockpit 1.000000

@@ -24,12 +24,12 @@ _eq_pfc_fuel_cutoff 0
 _joy_unique_id0 VID:1133PID:49762
 _joy_unique_id1 VID:1678PID:250
 _joy_unique_id2 VID:1118PID:736
-_joy_location0 \\?\hid#vid_046d&pid_c262&col01#7&11f77178&1&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+_joy_location0 \\?\hid#vid_046d&pid_c262&col01#7&11f77178&2&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
 _joy_location1 \\?\hid#vid_068e&pid_00fa#a&5890830&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
 _joy_location2 \\?\hid#{00001124-0000-1000-8000-00805f9b34fb}&vid_045e&pid_02e0&ig_00#b&2d675780&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
-_joy_lru_time0 1590099281
-_joy_lru_time1 1590179007
-_joy_lru_time2 1590179009
+_joy_lru_time0 1591482906
+_joy_lru_time1 1591482906
+_joy_lru_time2 1591482906
 _joy_lru_time3 0
 _joy_lru_time4 0
 _joy_lru_time5 0

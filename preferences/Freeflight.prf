@@ -2,24 +2,25 @@ I
 1100 Version
 _favorite Aircraft/Alabeo PA44_Seminole_v1.3/PA44_Seminole-XP11.acf||Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf||Aircraft/Carenado B58_Baron_v1.1/Car_B58_Baron.acf||Aircraft/vFlyteAir_PiperTwinComanche_v1_2/TwinComanche.acf||Aircraft/Carenado 500S_Aero_Commander_v1.2/Car_AeroCommander_XP11.acf
 _num_other_aircraft 3
-_airport KBOS
+_airport NY67
 _track_system_date_time 0
 _time 12.31
 _gmt_offset 0
 _date 80
 _editing_mode 0
-_aircraft Aircraft/Carenado B58_Baron_v1.1/Car_B58_Baron.acf
+_aircraft Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
 _wxr_def version=2 visibility_sm=100 storms_ratio=0 thermal_vvi_fpm=0 runway_friction_conditions_are_uniform=1 wave_height_ft=0.5 wave_direction_deg=0 temp=13.4845 pressure=101325 runway_friction=0 precipitation_ratio=0 thermal_coverage_ratio=0 thermal_altitude_ft_agl=1000 [ clouds version=1 height_ft_amsl=9000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=17000 thickness_ft=0 type=0 ] [ clouds version=1 height_ft_amsl=25000 thickness_ft=0 type=0 ] [ winds version=1 altitude_ft_amsl=46000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=48000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] [ winds version=1 altitude_ft_amsl=50000 direction_mag_deg=0 speed_kts=0 gust_speed_increase_kts=0 shear_direction_mag_deg=0 turbulence_ratio=0 ] 
+P _rwy_or_ramp KALB 0_0
 P _rwy_or_ramp KBOS 0_0
 P _rwy_or_ramp KCGX 0_0
 P _rwy_or_ramp KEWR 0_0
 P _rwy_or_ramp KLGA 0_0
 P _rwy_or_ramp KDCA 0_0
-P _fuel_tank __AircraftCarenadoB58Baronv11CarB58Baronacf_1 252.000000
-P _fuel_tank __AircraftCarenadoB58Baronv11CarB58Baronacf_0 252.000000
 P _fuel_tank __AircraftAerostar601PPiperPA61byAvia71Aerostaracf_2 260.624908
 P _fuel_tank __AircraftAerostar601PPiperPA61byAvia71Aerostaracf_1 0.000000
 P _fuel_tank __AircraftAerostar601PPiperPA61byAvia71Aerostaracf_0 260.624908
+P _fuel_tank __AircraftCarenadoB58Baronv11CarB58Baronacf_1 252.000000
+P _fuel_tank __AircraftCarenadoB58Baronv11CarB58Baronacf_0 252.000000
 P _fuel_tank __AircraftCarenado500SAeroCommanderv12CarAeroCommanderXP11acf_0 478.799988
 P _fuel_tank __AircraftvFlyteAirPiperTwinComanchev12TwinComancheacf_5 45.150002
 P _fuel_tank __AircraftvFlyteAirPiperTwinComanchev12TwinComancheacf_4 45.150002
@@ -31,8 +32,8 @@ P _fuel_tank __AircraftCarenadoCT182TG1000v12CarCT182Tacf_1 138.224289
 P _fuel_tank __AircraftCarenadoCT182TG1000v12CarCT182Tacf_0 138.224289
 P _fuel_tank __AircraftAlabeoPA44Seminolev13PA44SeminoleXP11acf_1 165.000000
 P _fuel_tank __AircraftAlabeoPA44Seminolev13PA44SeminoleXP11acf_0 165.000000
-P _payload _AircraftCarenadoB58Baronv11CarB58Baronacf 259.500000
 P _payload _AircraftAerostar601PPiperPA61byAvia71Aerostaracf 368.491577
+P _payload _AircraftCarenadoB58Baronv11CarB58Baronacf 259.500000
 P _payload _AircraftCarenado500SAeroCommanderv12CarAeroCommanderXP11acf 334.500000
 P _payload _AircraftvFlyteAirPiperTwinComanchev12TwinComancheacf 186.450012
 P _payload _AircraftCarenadoCT182TG1000v12CarCT182Tacf 160.650818
@@ -45,6 +46,7 @@ P _livery _AircraftAerostar601PPiperPA61byAvia71Aerostaracf Default
 P _livery _AircraftAlabeoPA44Seminolev13PA44SeminoleXP11acf N806AM
 P _livery _AircraftCarenadoPA34SenecaIIv32CarSenecaacf Default
 P _livery _AircraftLaminarResearchCessna172SPCessna172SPacf Default
+P _start_is_rwy KALB 1
 P _start_is_rwy KBOS 1
 P _start_is_rwy KCGX 1
 P _start_is_rwy KEWR 1
@@ -53,8 +55,8 @@ P _start_is_rwy KDCA 1
 P _other_aircraft 2 Aircraft/Laminar Research/Sikorsky S-76/S-76C.acf
 P _other_aircraft 1 Aircraft/Laminar Research/Boeing B737-800/b738.acf
 P _other_aircraft 0 Aircraft/Aerostar_601P-Piper_PA61_by_Avia71/Aerostar.acf
-P _cg _AircraftCarenadoB58Baronv11CarB58Baronacf 0.000000
 P _cg _AircraftAerostar601PPiperPA61byAvia71Aerostaracf 0.000000
+P _cg _AircraftCarenadoB58Baronv11CarB58Baronacf 0.000000
 P _cg _AircraftCarenado500SAeroCommanderv12CarAeroCommanderXP11acf 0.000000
 P _cg _AircraftvFlyteAirPiperTwinComanchev12TwinComancheacf 0.000000
 P _cg _AircraftCarenadoCT182TG1000v12CarCT182Tacf 0.000000
@@ -62,8 +64,8 @@ P _cg _AircraftAlabeoPA44Seminolev13PA44SeminoleXP11acf 0.000000
 P _other_aircraft_combat_role 2 noncombatant
 P _other_aircraft_combat_role 1 noncombatant
 P _other_aircraft_combat_role 0 noncombatant
-P _timestamp _AircraftCarenadoB58Baronv11CarB58Baronacf 1589488512.000000
 P _timestamp _AircraftAerostar601PPiperPA61byAvia71Aerostaracf 1589488896.000000
+P _timestamp _AircraftCarenadoB58Baronv11CarB58Baronacf 1589488512.000000
 P _timestamp _AircraftCarenado500SAeroCommanderv12CarAeroCommanderXP11acf 1494874880.000000
 P _timestamp _AircraftvFlyteAirPiperTwinComanchev12TwinComancheacf 1500551680.000000
 P _timestamp _AircraftCarenadoCT182TG1000v12CarCT182Tacf 1589488768.000000
