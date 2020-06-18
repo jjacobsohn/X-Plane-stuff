@@ -1,0 +1,4 @@
+*.png
+crash_reports/
+replays/
+shadercache/
